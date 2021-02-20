@@ -1,2 +1,0 @@
-# testjson
-Alfred workflow
