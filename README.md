@@ -1,4 +1,3 @@
-## 　　Lesson6.　Alfredの出力フォーマットを試してみる 
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/126855770-e0e7f392-8559-4e29-be92-1673beb72369.png">
